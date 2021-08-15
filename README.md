@@ -10,3 +10,5 @@ Will add more info here soon.
 
 
 Youtube video link: https://www.youtube.com/watch?v=XlD8KCnUoEM
+
+Note: The source code dosen't have a main() function, please invoke these functions from you own code.
